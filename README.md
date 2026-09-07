@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 Pastikan berkas basis data master (Skor_Final_V2.xlsx) berada pada direktori /Data. Jalankan server lokal dengan perintah:
 
-streamlit run app.py
+streamlit run 4_dashboard.py
 
 Aplikasi akan otomatis berjalan dan dapat diakses melalui peramban pada http://localhost:8501.
 
